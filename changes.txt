@@ -1,0 +1,2 @@
+1) Installed gem on computer and used command "gem install mysql2" to get mysql2 package
+2) Required mysql2 in test.rb to ensure library could load correctly.

@@ -1,0 +1,1 @@
+Create a simple test of Mysql ruby API functionality along with documentation.
